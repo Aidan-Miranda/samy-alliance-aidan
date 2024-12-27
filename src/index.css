@@ -1,0 +1,16 @@
+#root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  width: 100% !important;
+  background-color: #f6f6f6;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 100%;
+  min-height: 100vh;
+}
